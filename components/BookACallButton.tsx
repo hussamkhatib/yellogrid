@@ -3,7 +3,7 @@
 import { useEffect } from "react";
 import { getCalApi } from "@calcom/embed-react";
 
-const CAL_LINK = "hussamkhatib/30min";
+const CAL_LINK = "yellogrid/30min";
 
 export default function BookACallButton({
   className,
