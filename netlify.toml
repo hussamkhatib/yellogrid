@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "https://yellogrid.org/*"
+  to = "https://www.yellogrid.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.yellogrid.org/*"
+  to = "https://www.yellogrid.com/:splat"
+  status = 301
+  force = true
