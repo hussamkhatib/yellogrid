@@ -19,10 +19,10 @@ export default function Footer() {
             <ul className="mt-3 space-y-2 text-sm text-muted">
               <li>
                 <a
-                  href="mailto:hello@yellogrid.com"
+                  href="mailto:hussam@yellogrid.com"
                   className="transition-colors hover:text-ink"
                 >
-                  hello@yellogrid.com
+                  hussam@yellogrid.com
                 </a>
               </li>
             </ul>

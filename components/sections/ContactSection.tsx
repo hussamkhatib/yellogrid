@@ -25,10 +25,10 @@ export default function ContactSection({
             <p className="mt-6 text-sm text-muted">
               Prefer email?{" "}
               <a
-                href="mailto:hello@yellogrid.com"
+                href="mailto:hussam@yellogrid.com"
                 className="font-medium text-ink underline underline-offset-4"
               >
-                hello@yellogrid.com
+                hussam@yellogrid.com
               </a>
             </p>
           </div>
